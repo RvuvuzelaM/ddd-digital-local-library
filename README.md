@@ -1,5 +1,11 @@
 # Digital Local Library
 
+# Overview
+
+This is a project that is mean to show example how to go from description of the domain to the code with well thought discovery processes.
+[We took inspiration in this ](https://github.com/ddd-by-examples/library/tree/master#domain-description).
+In this project we will try to use techniques like: EventStorming, User Story Mapping, Behaviour-Driven Development, and show how it can play with Agile methodologies and DDD.
+
 # Domain Description
 
 The Digital-First Local Library embraces the digital era by offering a hybrid model of traditional and modern library services.
