@@ -26,3 +26,11 @@ Special editions, like signed copies, may be available for restricted periods or
 The library's system distinguishes between circulating and restricted digital assets; however, restrictions are mainly for licensing reasons rather than patron type.
 A book's digital instance can be added regardless of existing ISBNs in the catalog, facilitating a broader range of available titles.
 This Digital-First approach aims to balance the love of traditional book reading with the convenience of modern technology, providing a seamless, integrated reading experience for all patrons.
+
+# GPT as Stakeholder / Domain Expert
+
+We created custom GPT prompted with description of the domain: https://chat.openai.com/g/g-B98IPikin-digital-first-librarian.
+
+# BigPicture EventStorming
+
+In progress
